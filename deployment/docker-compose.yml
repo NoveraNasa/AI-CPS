@@ -1,0 +1,16 @@
+services:
+  knowledgebase:
+    image: noveranasa/knowledgebase_aiba_team_project  # Changed to lowercase
+    container_name: knowledgebase
+    volumes:
+      - ai_system:/tmp/knowledgebase
+
+  codebase:
+    image: noveranasa/codebase_aiba_team_project  # Changed to lowercase
+    container_name: codebase
+    volumes:
+      - ai_system:/tmp/codebase
+
+volumes:
+  ai_system:
+
