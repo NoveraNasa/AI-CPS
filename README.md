@@ -77,5 +77,6 @@ This repository is developed as part of the course **M. Grum: Advanced AI-Based 
 ### **1. Clone Repository**
 
 ```sh
-git clone https://github.com/NoveraNasa/your_project.git
+git clone https://github.com/NoveraNasa/AI-Based-Sentiment-Analysis.git
+cd AI-Based-Sentiment-Analysis
 ```
