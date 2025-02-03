@@ -80,3 +80,9 @@ This repository is developed as part of the course **M. Grum: Advanced AI-Based 
 git clone https://github.com/NoveraNasa/AI-Based-Sentiment-Analysis.git
 cd AI-Based-Sentiment-Analysis
 ```
+
+ Course Information
+This repository is created and maintained by Qazi Novera Tansue Nasa and Mustafa Wasif as part of the course 'M. Grum: Advanced AI-based Application Systems' by the Junior Chair for Business Information Science, esp. AI-based Application Systems at University of Potsdam.
+
+📄 License
+This project is licensed under the AGPL-3.0 license.
